@@ -20,7 +20,7 @@ title                    : "tomblog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Thomas Basche"
-description              : "A blog about code, software engineering and all manner of fun stuff"
+description              : "Code, Design, Agility"
 url                      : "https://tombasche.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,7 @@ analytics:
 author:
   name             : "Thomas Basche"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi! I'm Tom! I decided to start this blog when I found I kept piling up notes on my personal Trello about things I had to say :) 
-
-When I'm not writing code or reading about code, I enjoy playing guitar, video games or annoying my cat. Also reading (not always about code)."
+  bio              : "Code, Design, Agility"
   location         : "Canberra"
   email            :
   links:
