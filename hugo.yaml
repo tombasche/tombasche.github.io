@@ -3,9 +3,17 @@ languageCode: 'en-us'
 title: 'tombasche | portfolio | thoughts'
 theme: 'PaperMod'
 params:
-    homeInfoParams:
-        Title: 👋 Welcome!
-        Content: Come take a look around stuff I've been working on ☕, as well as random thoughts I've put to paper ✍️
+    profileMode:
+      enabled: true
+      title: 👋 Welcome!
+      subtitle: Come take a look around stuff I've been working on ☕, as well as random thoughts I've put to paper ✍️
+      buttons:
+        - name: Portfolio
+          url: "/posts/portfolio"
+        - name: Thoughts
+          url: "/posts"
+        - name: About
+          url: "/posts/about"
     socialIcons:
         - name: LinkedIn
           url: "https://www.linkedin.com/in/thomas-basche-1698061b0/"
