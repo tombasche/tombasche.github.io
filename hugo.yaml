@@ -6,7 +6,7 @@ params:
     profileMode:
       enabled: true
       title: 👋 Welcome!
-      subtitle: Come take a look around stuff I've been working on ☕, as well as random thoughts I've put to paper ✍️
+      subtitle: Come take a look around stuff I've been working on ☕, as well as random thoughts I've put to paper ✍️ My itch.io page contains some of my projects, finished, unfinished or otherwise [https://tobaschco.itch.io](https://tobaschco.itch.io)
       buttons:
         # - name: Portfolio
         #   url: "/posts/portfolio"
@@ -19,3 +19,5 @@ params:
           url: "https://www.linkedin.com/in/thomas-basche-1698061b0/"
         - name: GitHub
           url: "https://github.com/tombasche"
+        - name: itch
+          url: "https://tobaschco.itch.io/"
