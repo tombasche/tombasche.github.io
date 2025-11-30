@@ -8,16 +8,14 @@ params:
       title: 👋 Welcome!
       subtitle: Come take a look around stuff I've been working on ☕, as well as random thoughts I've put to paper ✍️ My itch.io page contains some of my projects, finished, unfinished or otherwise [https://tobaschco.itch.io](https://tobaschco.itch.io)
       buttons:
-        # - name: Portfolio
-        #   url: "/posts/portfolio"
+        - name: Portfolio
+          url: "/posts/portfolio"
         - name: Thoughts
           url: "/posts"
-        - name: About
-          url: "/posts/about"
     socialIcons:
         - name: LinkedIn
           url: "https://www.linkedin.com/in/thomas-basche-1698061b0/"
         - name: GitHub
           url: "https://github.com/tombasche"
         - name: itch
-          url: "https://tobaschco.itch.io/"
+          url: "https://tombasche.itch.io/"
