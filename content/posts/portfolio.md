@@ -39,6 +39,10 @@ This project taught me that I do not enjoy creating "realistic" graphics with a 
 
 It was however the first project I "finished" so that's something. I think there is potential here for a larger horror game but it possibly requires some more person-power!
 
+# Jam Entries and random prototypes
+
+Visit my [itch.io](https://tombasche.itch.io/) page! 
+
 # Experiments and ongoing prototypes
 
 ## Project Archipelago
