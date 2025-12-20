@@ -4,8 +4,15 @@ date: 2025-11-30T21:40:13+02:00
 draft: false
 ---
 
-# Released Games
+# What kind of things do I enjoy making and playing? 
 
+Honestly, a lot of what I make is "I should try that" but what really drives me, at least lately, has been the concept of making a "toy" and building rules and goals from that. A seminal text for me from university was Tracy Fullerton's [Game Design Workshop](https://www.gamedesignworkshop.com/) which discusses designing for the player experience first, rather than a set of mechanics.
+
+In general I am also a big fan of the "ludonarrative", teaching via level design and environmental story telling. Anything that minimises the need for a large UI or endless blobs of text. 
+
+I am always looking to push my skills artistically and technically so that I can continue putting my ideas down without hitting any roadblocks. I work best in very small groups so to be able to wear many many hats is an absolute joy for me. 
+
+# Released Games
 
 ![Super Pinball Adventure](/images/spa.png)
 [Super Pinball Adventure - Dec 2025](https://store.steampowered.com/app/3684910/Super_Pinball_Adventure/)
@@ -73,7 +80,5 @@ One thing I really enjoyed making in this prototype was the weather system - all
 
 I started my foray into coding with my Bachelor of Computer Science, majoring in Games Development in 2014. Most of my time at university was spent delving into the details of C++ with OpenGL, being part of a team prototyping our own 2D sidescroller from scratch as well as the in's and out's of game design, prototyping and playtesting. 
 Since then I've spent over a decade in the tech sector working in fullstack web development roles, utilising all sorts of languages on the backend from Groovy, Golang, Kotlin and Python, with the (now) classic combo of Typescript and React on the frontend.
-
-I've worked in a variety of domains including healthcare, compliance, renewable energy, mapping & geospatial and mostly recently at Wolt within the ever-growing last-mile delivery sector.
 
 In my downtime I enjoy spending time with my family, designing and developing 2D and 3D games in Unity, as well as 3D art, pixel art, composing weird music, playing guitar and piano and playing many many video games. I am a bit of a horror movie fan, with my favourites being The Conjuring, Insidious and ... well mostly James Wan and Blumhouse!
