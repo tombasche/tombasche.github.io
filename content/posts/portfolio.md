@@ -50,7 +50,19 @@ It was however the first project I "finished" so that's something. I think there
 
 Visit my [itch.io](https://tombasche.itch.io/) page! 
 
-# Experiments and ongoing prototypes
+# Experiments and prototypes
+
+## Beechwood Express
+
+![Beechwood](/images/beechwood.jpg)
+
+A very early prototype but one I am quite excited about! 
+
+This is a twist on the roguelike formula using the concept of a wooden toy train set that you build each day, and then gets packed away each night. The core loop involves building the train set from randomly picked pieces from your cluttered toybox.
+
+Combos of track pieces give you points / bonuses etc., which enable you to keep going. 
+
+Then finally your train makes its way down, where it stops at any stations, past interesting landmarks and picks up quirky passengers. 
 
 ## Project Archipelago
 
